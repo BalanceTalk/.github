@@ -3,4 +3,4 @@
 <br>
 
 ## ERD
-<img src="https://github.com/BalanceTalk/.github/assets/110653660/ff3ea9a4-8f3d-44be-afad-729c99feabab">
+<img width="670" alt="image" src="https://github.com/BalanceTalk/.github/assets/110653660/bb62f3dc-3e9e-4d7b-8cc7-06999d5203fb">
